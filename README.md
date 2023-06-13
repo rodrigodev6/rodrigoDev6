@@ -16,8 +16,6 @@
 ### Databases:
 + **MySQL/MariaDB, Oracle, SQLite.**
 <br />
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-
 ---
 ### Ferramentas:
 + **Git/GitHub/GitLab, Linux, VsCode, JetBrains(PhpStorm, IntelliJ).** <br />
