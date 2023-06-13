@@ -16,7 +16,7 @@
 ### Databases:
 + **MySQL/MariaDB, Oracle, SQLite.**
 <br />
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 ---
 ### Ferramentas:
