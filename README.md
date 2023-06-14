@@ -30,12 +30,5 @@
 <div>
 
 ---
-<!-- 
 ## 📊 | Github Stats!
-<div> 
-   <img height="195em"  src="https://github-readme-stats.vercel.app/api?username=rodrigodev6&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-
-   <a href="https://github.com/rodrigoDev6">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodev6&layout=compact&langs_count=7&theme=algolia"/>
-</div> 
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigodev6&show_icons=true&theme=dracula)
