@@ -1,6 +1,6 @@
 # Quem sou eu
 > **Oi, eu sou Rodrigo! 👋. Tenho 21 anos e sou um estudante de análise de sistemas apaixonado por tecnologia e desenvolvimento de software.**
-
+/*
 ## ⌨️┃ Skills:
 
 ### Front-end:
@@ -21,7 +21,7 @@
 ### Ferramentas:
 + **Git/GitHub/GitLab, Linux, VsCode, JetBrains(PhpStorm, IntelliJ).** <br />
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,idea&theme=light)](https://skillicons.dev)
-
+*/
 ---
 ### Contatos:
 <div>
