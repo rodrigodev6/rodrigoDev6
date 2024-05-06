@@ -1,7 +1,7 @@
 # **Hi, I'm Rodrigo! 👋**.
 
 # Sobre mim
-> **Tenho 22 anos e estou finalizando o faculdade de ADS, atualmente sou desenvolvedor Web com foco em Oracle APEX, PL/SQL e Javascript.**
+> **Tenho 22 anos e estou finalizando a faculdade de ADS, atualmente sou desenvolvedor Web com foco em Oracle APEX, PL/SQL e Javascript.**
 
 ### Conhecimentos em:
 
